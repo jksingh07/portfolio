@@ -784,7 +784,7 @@ const contactPageData = {
       "I am available on almost every social media. You can message me, I will reply within 24 hours. I can help you with ML, AI, React, Android, Cloud and Opensource Development.",
   },
   blogSection: {
-    title: "Blogs",
+    title: "About Me",
     subtitle:
       "For individual fundamental empowerment, I like to write powerful lessons that create impact on each of the reader individually to change the core of their character.",
     link: "https://blogs.jaskaranluthra.com/",
@@ -792,10 +792,10 @@ const contactPageData = {
   },
   addressSection: {
     title: "Address",
-    subtitle:
-      "Ambavadi vas, Kanodar, T.A.-Palanpur, Dist.-Banaskantha, Gujarat - 385520",
+    subtitle: "532 Oak Street, Windsor, Ontario, Canada, N9A 5E6",
     avatar_image_path: "address_image.svg",
-    location_map_link: "https://goo.gl/maps/MpMqtRZytFchMkZ76",
+    location_map_link:
+      "https://www.google.com/maps/place/532+Oak+St,+Windsor,+ON+N9A+5E6/@42.3112089,-83.0508123,17z/data=!3m1!4b1!4m6!3m5!1s0x883b2d10272198d9:0x69852e68c8a067e9!8m2!3d42.311205!4d-83.0486183!16s%2Fg%2F11cphdk2lc",
   },
   phoneSection: {
     title: "",
