@@ -432,11 +432,11 @@ const certifications = {
       color_code: "#8C151599",
     },
     {
-      title: "Deep Learning",
+      title: "Neural Networks and Deep Learning",
       subtitle: "- Andrew Ng",
       logo_path: "deeplearning_ai_logo.png",
       certificate_link:
-        "https://www.coursera.org/account/accomplishments/specialization/H8CPSFXAJD2G",
+        "https://www.coursera.org/account/accomplishments/certificate/M9FAG663PH3L",
       alt_name: "deeplearning.ai",
       color_code: "#00000099",
     },
