@@ -125,6 +125,14 @@ const skills = {
             color: "#3776AB",
           },
         },
+        {
+          skillName: "Hadoop",
+          fontAwesomeClassname: "logos-hadoop",
+          style: {
+            color: "#E34F26",
+            backgroundColor: "transparent",
+          },
+        },
       ],
     },
     {
@@ -150,13 +158,13 @@ const skills = {
             color: "#1572B6",
           },
         },
-        {
-          skillName: "Sass",
-          fontAwesomeClassname: "simple-icons:sass",
-          style: {
-            color: "#CC6699",
-          },
-        },
+        // {
+        //   skillName: "Sass",
+        //   fontAwesomeClassname: "simple-icons:sass",
+        //   style: {
+        //     color: "#CC6699",
+        //   },
+        // },
         {
           skillName: "JavaScript",
           fontAwesomeClassname: "simple-icons:javascript",
@@ -173,8 +181,8 @@ const skills = {
           },
         },
         {
-          skillName: "NodeJS",
-          fontAwesomeClassname: "simple-icons:node-dot-js",
+          skillName: "Django",
+          fontAwesomeClassname: "simple-icons:django",
           style: {
             color: "#339933",
           },
@@ -187,26 +195,26 @@ const skills = {
           },
         },
         {
-          skillName: "Yarn",
-          fontAwesomeClassname: "simple-icons:yarn",
+          skillName: "Flask",
+          fontAwesomeClassname: "simple-icons:flask",
           style: {
             color: "#2C8EBB",
           },
         },
-        {
-          skillName: "Gatsby",
-          fontAwesomeClassname: "simple-icons:gatsby",
-          style: {
-            color: "#663399",
-          },
-        },
-        {
-          skillName: "Flutter",
-          fontAwesomeClassname: "simple-icons:flutter",
-          style: {
-            color: "#02569B",
-          },
-        },
+        // {
+        //   skillName: "Gatsby",
+        //   fontAwesomeClassname: "simple-icons:gatsby",
+        //   style: {
+        //     color: "#663399",
+        //   },
+        // },
+        // {
+        //   skillName: "Flutter",
+        //   fontAwesomeClassname: "simple-icons:flutter",
+        //   style: {
+        //     color: "#02569B",
+        //   },
+        // },
       ],
     },
     {
@@ -240,13 +248,13 @@ const skills = {
             color: "#0089D6",
           },
         },
-        {
-          skillName: "Firebase",
-          fontAwesomeClassname: "simple-icons:firebase",
-          style: {
-            color: "#FFCA28",
-          },
-        },
+        // {
+        //   skillName: "Firebase",
+        //   fontAwesomeClassname: "simple-icons:firebase",
+        //   style: {
+        //     color: "#FFCA28",
+        //   },
+        // },
         {
           skillName: "PostgreSQL",
           fontAwesomeClassname: "simple-icons:postgresql",
@@ -278,38 +286,45 @@ const skills = {
       ],
     },
     {
-      title: "UI/UX Design",
+      title: "Work Experience",
       fileName: "DesignImg",
       skills: [
-        "⚡ Designing highly attractive user interface for mobile and web applications",
-        "⚡ Customizing logo designs and building logos from scratch",
-        "⚡ Creating the flow of application functionalities to optimize user experience",
+        "⚡ At Wipro Limited in Bengaluru, India, I was Associate Consultant and Project Engineer utilized technologies such as Python, MySQL, NLP, Matplotlib, SAP BASIS, SAP Analytics, and SAP iRPA to develop a Resume Parser and Skill-Bridge framework, as well as automate repetitive tasks for the Human Resource Team, leading to a 40% reduction in hiring time and a 50% reduction in workload",
+        "⚡ As a Machine Learning Intern at Perspectico in New Delhi, India, I applied various technologies such as Python, Machine Learning, Computer Vision, NLP, APIs, Flask, and AWS, led a team of five members, fetched 90% of data by web scraping multiple job sourcing platforms, and developed a recommendation system that suggests 70% matching jobs.",
+        "⚡ During my internship at AutoMotu, from April 2019 to December 2019 in New Delhi, I utilized technologies such as Python, Machine Learning, Data Analysis and Wrangling, Time Series Forecasting, APIs, and Flask, to analyze driver behavior using mobile phone sensors, achieving an 86% testing accuracy rate with the resulting ML model, and collaborated with PHDs in Data Science from the USA and professors from a top elite university in India while also designing and implementing a pre-processing pipeline to optimize the data ingestion process for the project.",
       ],
       softwareSkills: [
         {
-          skillName: "Adobe XD",
-          fontAwesomeClassname: "simple-icons:adobexd",
+          skillName: "Open CV",
+          fontAwesomeClassname: "simple-icons:opencv",
           style: {
-            color: "#FF2BC2",
+            color: "#FFD700,",
           },
         },
         {
-          skillName: "Figma",
-          fontAwesomeClassname: "simple-icons:figma",
+          skillName: "Jira",
+          fontAwesomeClassname: "simple-icons:jira",
           style: {
-            color: "#F24E1E",
+            color: "#0052CC",
           },
         },
         {
-          skillName: "Adobe Illustrator",
-          fontAwesomeClassname: "simple-icons:adobeillustrator",
+          skillName: "MySQL",
+          fontAwesomeClassname: "simple-icons:mysql",
           style: {
             color: "#FF7C00",
           },
         },
         {
-          skillName: "Inkscape",
-          fontAwesomeClassname: "simple-icons:inkscape",
+          skillName: "Selenium",
+          fontAwesomeClassname: "simple-icons:selenium",
+          style: {
+            color: "#00FF00",
+          },
+        },
+        {
+          skillName: "Plotly",
+          fontAwesomeClassname: "simple-icons:plotly",
           style: {
             color: "#000000",
           },
