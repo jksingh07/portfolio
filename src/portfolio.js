@@ -140,8 +140,8 @@ const skills = {
       fileName: "FullStackImg",
       skills: [
         "⚡ Building responsive website front end using React-Redux",
-        "⚡ Developing mobile applications using Flutter, React Native and solo android apps using Kotlin",
-        "⚡ Creating application backend in Node, Express & Flask",
+        "⚡ Developing mobile applications using Flask, Django, React Native.",
+        "⚡ Creating application backend in Django & Flask",
       ],
       softwareSkills: [
         {
@@ -398,9 +398,9 @@ const degrees = {
       alt_name: "University of Windsor",
       duration: "2022 - Current",
       descriptions: [
-        "⚡ I have taken varity of courses related to Artificial Intelligence which correspond to Explainable AI, Graph Machine Learning, Computer Vision etc.",
-        "⚡ Apart from this, I have also done research assistantship. As part of it, I have worked on creating new algorithms in Graph ML and Network Science.",
-        "⚡ During my time at university, I was also associated with multimedia department. As part of it, I have worked on some documentry films and interviews.",
+        "⚡ I have taken varity of courses related to Artificial Intelligence which correspond to Reinforcement Learning, Clustering, Ensemble Learning, Graph Machine Learning, Computer Vision etc.",
+        "⚡ Apart from this, I have also participated in various workshops. As part of it, I have worked on creating new algorithms in Graph ML and Network Science.",
+        "⚡ Distinguished myself in Advanced Software Engineering by achieving a perfect score of 100% among a cohort of 160 students.",
       ],
       website_link: "https://www.uwindsor.ca",
     },
@@ -413,7 +413,8 @@ const degrees = {
       descriptions: [
         "⚡ I have studied basic software engineering subjects like DS, Algorithms, DBMS, OS, CA, AI etc.",
         "⚡ Apart from this, I have done courses on Deep Learning, Data Science, Cloud Computing and Full Stack Development.",
-        "⚡ I was selected for Merit cum Means Scholarship which is given to top 10% of students in college. I have received award from respected director for consistently best performance in academics.",
+        "⚡ Secured 1st rank among 500 members in a Time Attack coding competition at Technical Fest",
+        "⚡ Secured 3rd rank among 200 entries in a Infotra Metacognition Hackathon",
       ],
       website_link: "https://galgotiacollege.edu",
     },
@@ -827,7 +828,7 @@ const contactPageData = {
   blogSection: {
     title: "About Me",
     subtitle:
-      "Hello! I am Jaskaran Singh Luthra, a passionate data scientist and machine learning enthusiast. I have a solid background in programming languages such as Python, C, C++, and JavaScript and have gained extensive experience in data science and machine learning technologies such as TensorFlow, PyTorch, Big Data, OpenCV, NLP, and deep learning techniques like LSTM, neural networks, data visualization, data mining, and data privacy.\n\nI hold a Master of Applied Computing in Artificial Intelligence stream from the University of Windsor, where I excelled in Advanced System Programming and achieved a perfect score of 100% among 160 students. Additionally, I earned a Bachelor of Technology in Information Technology from Galgotias College of Engineering and Technology, where I secured the first rank among 500 members in Time Attack coding competition during Technical Fest.\n In my professional experience, I have worked with a wide range of databases, including MySQL, MongoDB, PostgreSQL, MS-SQL, and AWS-S3. Moreover, I have expertise in visualization tools like Tableau, PowerBI, Matplotlib, Seaborn, Plotly, and Panel, and frameworks such as Apache Spark, Hadoop, Django, Flask, Streamlit, Dash, REST API, Docker, Anaconda, and Jupyter NB.",
+      "Hello! I am Jaskaran Singh Luthra, a passionate data scientist and machine learning enthusiast. I have a solid background in programming languages such as Python, C, C++, and JavaScript and have gained extensive experience in data science and machine learning technologies such as TensorFlow, PyTorch, Big Data, OpenCV, NLP, and deep learning techniques like LSTM, neural networks, data visualization, data mining, and data privacy.\n\nI hold a Master of Applied Computing in Artificial Intelligence stream from the University of Windsor, where I excelled in Advanced Software Engineering and achieved a perfect score of 100% among 160 students. Additionally, I earned a Bachelor of Technology in Information Technology from Galgotias College of Engineering and Technology, where I secured the first rank among 500 members in Time Attack coding competition during Technical Fest.\n In my professional experience, I have worked with a wide range of databases, including MySQL, MongoDB, PostgreSQL, MS-SQL, and AWS-S3. Moreover, I have expertise in visualization tools like Tableau, PowerBI, Matplotlib, Seaborn, Plotly, and Panel, and frameworks such as Apache Spark, Hadoop, Django, Flask, Streamlit, Dash, REST API, Docker, Anaconda, and Jupyter NB.",
     link: "https://blogs.jaskaranluthra.com/",
     avatar_image_path: "blogs_image.svg",
   },
