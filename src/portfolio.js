@@ -740,8 +740,14 @@ const projectsHeader = {
   avatar_image_path: "projects_image.svg",
 };
 
+// const publicationsHeader = {
+//   title: "PROJECTS",
+//   description:
+//     "My projects makes use of vast variety of latest technology tools. My best experience is to create Data Science projects and deploy them to web applications using cloud infrastructure.",
+//   avatar_image_path: "projects_image.svg",
+// };
 const publicationsHeader = {
-  title: "Publications",
+  title: "PROJECTS",
   description:
     "I have worked on and published a few research papers and publications of my own.",
   avatar_image_path: "projects_image.svg",
@@ -751,43 +757,60 @@ const publications = {
   data: [
     {
       id: "MDEwOlJlcG9zaXRvcnkyNDU0NjcyNzQ=",
-      name: "Artificial Intelligence Paper",
-      createdAt: "2020-03-06T16:26:54Z",
-      description: "Paper Written on Artificial Intelligence published in xyz ",
-      url:
-        "https://www.andrewng.org/publications/building-high-level-features-using-large-scale-unsupervised-learning/",
+      name: "Change Data Capture (CDC)",
+      createdAt: "2023-03-06T16:26:54Z",
+      description:
+        "Implemented change data capture system using Python, Apache Spark, MySQL, AWS (LAMBDA GLUE, S3, DMS, RDS, IAM) for ongoing replication of database changes to another storage with a detailed architecture for data flow, transformation, and storage to ensure scalability, flexibility, and robustness. ",
+      url: "https://github.com/jksingh07/CDC",
     },
     {
       id: "MDEwOlJlcG9zaXRvcnkyNDU0NjcyNzi=",
-      name: "Artificial Intelligence Paper",
-      createdAt: "2020-03-06T16:26:54Z",
-      description: "Paper Written on Artificial Intelligence published in xyz ",
-      url:
-        "https://www.andrewng.org/publications/building-high-level-features-using-large-scale-unsupervised-learning/",
+      name: "Automated Garage System",
+      createdAt: "2022-12-06T16:26:54Z",
+      description:
+        "allows remote control and monitoring of garage doors, sensors, and lights using Python, Flask APIs, Unity, Junit, GIT, Jira, Flutter, GO Visual Studio, and Azure Cloud. We achieved a 90% reduction in user effort and an 80% increase in efficiency. ",
+      url: "https://github.com/jksingh07/smart_garage",
     },
     {
       id: "MDEwOlJlcG9zaXRvcnkyNDU0NjcyNze=",
-      name: "Artificial Intelligence Paper",
+      name: "Object Detection and Recognition",
       createdAt: "2020-03-06T16:26:54Z",
-      description: "Paper Written on Artificial Intelligence published in xyz ",
-      url:
-        "https://www.andrewng.org/publications/building-high-level-features-using-large-scale-unsupervised-learning/",
+      description:
+        "Applied Technologies: Deep Learning, Raspberry Pi, GUI - Tkinter, API, Flask\n • Developed assistive technology for the visually impaired, utilizing text-to-speech module to accurately detect and recognize objects with 95% model accuracy.",
+      url: "https://github.com/jksingh07/Object-Detection",
     },
     {
       id: "MDEwOlJlcG9zaXRvcnkyNDU0NjcyNzt=",
-      name: "Artificial Intelligence Paper",
-      createdAt: "2020-03-06T16:26:54Z",
-      description: "Paper Written on Artificial Intelligence published in xyz ",
+      name: "Garbage Detection",
+      createdAt: "2019-12-06T16:26:54Z",
+      description:
+        "Detects Garbage in the streets and reports to Municipal corporation. ",
+      url: "https://github.com/jksingh07/Garbage-Detection",
+    },
+    {
+      id: "MDEwOlJlcG9zaXRvcnkyNDU0NjcyNzt=",
+      name: "Restaurant Management System",
+      createdAt: "2020-10-06T16:26:54Z",
+      description:
+        "This project streamlines the billing process by providing two graphical user interfaces (GUIs): one for customers to place orders and obtain order IDs, and another for employees to input order IDs and perform updates or deletions with admin permissions, while utilizing SQL lite for database management. ",
       url:
-        "https://www.andrewng.org/publications/building-high-level-features-using-large-scale-unsupervised-learning/",
+        "https://github.com/jksingh07/Restaurant-Management-System/tree/master",
+    },
+    {
+      id: "MDEwOlJlcG9zaXRvcnkyNDU0NjcyNzt=",
+      name: "File Transfer Tool using Sockets",
+      createdAt: "2020-10-06T16:26:54Z",
+      description:
+        "A basic File transfer tool built using socket programming in python. It can transfer any type of files (videos, images, documents) between 2 computers connected on the same wireless network.",
+      url: "https://github.com/jksingh07/File-Transfer-tool/tree/master",
     },
     {
       id: "MDEwOlJlcG9zaXRvcnkyNDU0NjcyNzb=",
-      name: "Artificial Intelligence Paper",
-      createdAt: "2020-03-06T16:26:54Z",
-      description: "Paper Written on Artificial Intelligence published in xyz ",
-      url:
-        "https://www.andrewng.org/publications/building-high-level-features-using-large-scale-unsupervised-learning/",
+      name: "Self Driving Car Prototype",
+      createdAt: "2020-12-06T16:26:54Z",
+      description:
+        "In this project we had used Behaviour cloning technique and trained a neural network with the images from the car (working in a simulator) of front , left, right side and then processed the images by cleaning the data by removing unwanted part of image, fine tuned and resized the images. On the basis of the images it predicts the left and right turns. Moreover to stop the car we used Lidar sensors that will detect the object in the path. We had created a working Prototype of this car. Raspberry Pi module is used to run the application and work with Lidar, a battery pack is installed in the car ",
+      url: "https://github.com/jksingh07/Self-Driving-Car-",
     },
   ],
 };

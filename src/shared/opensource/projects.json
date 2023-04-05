@@ -2,9 +2,9 @@
   "data": [
     {
       "id": "MDEwOlJlcG9zaXRvcnkyNDU0NjcyNzQ=",
-      "name": "masterPortfolio",
-      "createdAt": "2020-03-06T16:26:54Z",
-      "url": "https://github.com/jaskaran1919/masterPortfolio",
+      "name": "Portfolio",
+      "createdAt": "2023-04-06T16:26:54Z",
+      "url": "https://github.com/jksingh07/portfolio",
       "description": "🔥 The Complete Customizable Software Developer Portfolio Template which lets you showcase your work and provides each and every detail about you as Software Developer.",
       "isFork": false,
       "languages": [
@@ -28,26 +28,172 @@
     },
     {
       "id": "R_kgDOG_vYHA",
-      "name": "explainable-cnn",
-      "createdAt": "2022-03-13T20:41:33Z",
-      "url": "https://github.com/jaskaran1919/explainable-cnn",
-      "description": "📦 PyTorch based visualization package for generating layer-wise explanations for CNNs.",
+      "name": "Change Data Capture (CDC)",
+      "createdAt": "2023-03-13T20:41:33Z",
+      "url": "https://github.com/jksingh07/CDC",
+      "description": "📦 Implemented change data capture system for ongoing replication of database changes to another storage with a detailed architecture for data flow, transformation, and storage to ensure scalability, flexibility, and robustness using Apache Spark, MySQL, AWS (LAMBDA GLUE, S3, DMS, RDS, IAM)",
       "isFork": false,
       "languages": [
         {
           "name": "Python",
           "iconifyClass": "logos-python"
+        },
+        {
+          "name": "AWS",
+          "iconifyClass": "logos-aws"
+        },
+        {
+          "name": "MySQL",
+          "iconifyClass": "logos-mysql"
+        },
+        {
+          "name": "Hadoop",
+          "iconifyClass": "logos-hadoop"
+        }
+      ]
+    },
+    {
+      "id": "R_kgDOG0_8lQ",
+      "name": "Sentiment Analysis",
+      "createdAt": "2023-04-11T14:50:20Z",
+      "url": "https://github.com/jksingh07/Sentiment-Analysis",
+      "description": "📦 Twitter Sentiment Analysis app using Dash.",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "Python",
+          "iconifyClass": "logos-python"
+        },
+        {
+          "name": "Tensor Flow",
+          "iconifyClass": "logos-tensorflow"
+        },
+        {
+          "name": "DASH",
+          "iconifyClass": "simple-icons:dash"
+        },
+        {
+          "name": "PyTorch-NLP",
+          "iconifyClass": "logos-pytorch"
         }
       ]
     },
     {
       "id": "R_kgDOG0_8uQ",
-      "name": "react-awesome-shapes",
-      "createdAt": "2022-02-11T14:50:20Z",
-      "url": "https://github.com/jaskaran1919/react-awesome-shapes",
-      "description": "🌀 Insert Awesome Shapes into Your React Site with Ease.",
+      "name": "Self Driving Car Prototype",
+      "createdAt": "2020-12-11T14:50:20Z",
+      "url": "https://github.com/jksingh07/Self-Driving-Car-",
+      "description": "🌀 The project utilized Behavior cloning technique to train a neural network with front, left, and right images from a car simulator, which were processed by cleaning the data, fine-tuning, and resizing to predict turns, while a Lidar sensor was used for object detection, with a working Prototype created using Raspberry Pi module and a battery pack installed.",
       "isFork": false,
       "languages": [
+        {
+          "name": "Python",
+          "iconifyClass": "logos-python"
+        },
+        {
+          "name": "Tensor Flow",
+          "iconifyClass": "logos-tensorflow"
+        },
+        {
+          "name": "HTML",
+          "iconifyClass": "logos-html-5"
+        },
+        {
+          "name": "Keras",
+          "iconifyClass": "simple-icons:keras"
+        },
+        {
+          "name": "Flask",
+          "iconifyClass": "logos-flask"
+        }
+      ]
+    },
+    {
+      "id": "R_kgDOGcPKSQ",
+      "name": "Automated Garage System",
+      "createdAt": "2022-12-26T17:56:07Z",
+      "url": "https://github.com/jksingh07/smart_garage",
+      "description": "⚙️ Allows remote control and monitoring of garage doors, sensors, and lights using Python, Flask APIs, Unity, Junit, GIT, Jira, Flutter, GO Visual Studio, and Azure Cloud. We achieved a 90% reduction in user effort and an 80% increase in efficiency.",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "Python",
+          "iconifyClass": "logos-python"
+        },
+        {
+          "name": "Dart",
+          "iconifyClass": "logos-dart"
+        },
+        {
+          "name": "C",
+          "iconifyClass": "logos-c"
+        },
+        {
+          "name": "HTML",
+          "iconifyClass": "logos-html-5"
+        }
+      ]
+    },
+    {
+      "id": "MDEwOlJlcG9zaXRvcnkzMjcyMjI5Njk=",
+      "name": "Object Detection and Recognition",
+      "createdAt": "2020-03-06T16:26:54Z",
+      "url": "https://github.com/jksingh07/Object-Detection",
+      "description": "🚀  Developed assistive technology for the visually impaired, utilizing text-to-speech module to accurately detect and recognize objects with 95% model accuracy. Applied Technologies: Deep Learning, Raspberry Pi, GUI - Tkinter, API, Flask\n",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "Python",
+          "iconifyClass": "logos-python"
+        },
+        {
+          "name": "Flask",
+          "iconifyClass": "logos-flask"
+        },
+        {
+          "name": "Tesnsor Flow",
+          "iconifyClass": "logos-tensorflow"
+        }
+      ]
+    },
+    {
+      "id": "MDEwOlJlcG9zaXRvcnkzMjU5NDM1MTE=",
+      "name": "Garbage Detection",
+      "createdAt": "2019-12-06T16:26:54Z",
+      "url": "https://github.com/jksingh07/Garbage-Detection",
+      "description": "🚀 Detects Garbage in the streets and reports to Municipal corporation.",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "Python",
+          "iconifyClass": "logos-python"
+        },
+        {
+          "name": "Flask",
+          "iconifyClass": "logos-flask"
+        },
+        {
+          "name": "Tensor Flow",
+          "iconifyClass": "logos-tensorflow"
+        },
+        {
+          "name": "Streamlit",
+          "iconifyClass": "logos-streamlit"
+        }
+      ]
+    },
+    {
+      "id": "R_kgDOG0_8vQ",
+      "name": "Restaurant Management System",
+      "createdAt": "2020-10-11T14:50:20Z",
+      "url": "https://github.com/jksingh07/Restaurant-Management-System/tree/master",
+      "description": "🌀 This project streamlines the billing process by providing two graphical user interfaces (GUIs): one for customers to place orders and obtain order IDs, and another for employees to input order IDs and perform updates or deletions with admin permissions, while utilizing SQL lite for database management.",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "Python",
+          "iconifyClass": "logos-python"
+        },
         {
           "name": "HTML",
           "iconifyClass": "logos-html-5"
@@ -57,58 +203,22 @@
           "iconifyClass": "logos-css-3"
         },
         {
-          "name": "Shell",
-          "iconifyClass": "simple-icons:shell"
-        },
-        {
-          "name": "JavaScript",
-          "iconifyClass": "logos-javascript"
+          "name": "MySQL",
+          "iconifyClass": "logos-mysql"
         }
       ]
     },
     {
-      "id": "R_kgDOGcPKSQ",
-      "name": "neuro-symbolic-sudoku-solver",
-      "createdAt": "2021-11-26T17:56:07Z",
-      "url": "https://github.com/jaskaran1919/neuro-symbolic-sudoku-solver",
-      "description": "⚙️ Solving sudoku using Deep Reinforcement learning in combination with powerful symbolic representations.",
+      "id": "R_kgDOG0_8zQ",
+      "name": "File Transfer Tool using Sockets",
+      "createdAt": "2020-12-11T14:50:20Z",
+      "url": "https://github.com/jksingh07/File-Transfer-tool/tree/master",
+      "description": "🔥 A basic File transfer tool built using socket programming in python. It can transfer any type of files (videos, images, documents) between 2 computers connected on the same wireless network.",
       "isFork": false,
       "languages": [
         {
           "name": "Python",
           "iconifyClass": "logos-python"
-        }
-      ]
-    },
-    {
-      "id": "MDEwOlJlcG9zaXRvcnkzMjcyMjI5Njk=",
-      "name": "react-awesome-loaders",
-      "createdAt": "2021-01-06T06:36:41Z",
-      "url": "https://github.com/jaskaran1919/react-awesome-loaders",
-      "description": "🚀  High quality, super responsive and completely customisable Loading Animations to insert into your website with single line of code.",
-      "isFork": false,
-      "languages": [
-        {
-          "name": "JavaScript",
-          "iconifyClass": "logos-javascript"
-        }
-      ]
-    },
-    {
-      "id": "MDEwOlJlcG9zaXRvcnkzMjU5NDM1MTE=",
-      "name": "react-liquidswipe",
-      "createdAt": "2021-01-01T08:31:51Z",
-      "url": "https://github.com/jaskaran1919/react-liquidswipe",
-      "description": "🚀 Smooth Liquid Swipe Animation to transition between different components.",
-      "isFork": false,
-      "languages": [
-        {
-          "name": "JavaScript",
-          "iconifyClass": "logos-javascript"
-        },
-        {
-          "name": "CSS",
-          "iconifyClass": "logos-css-3"
         }
       ]
     }
