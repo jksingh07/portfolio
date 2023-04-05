@@ -746,74 +746,75 @@ const projectsHeader = {
 //     "My projects makes use of vast variety of latest technology tools. My best experience is to create Data Science projects and deploy them to web applications using cloud infrastructure.",
 //   avatar_image_path: "projects_image.svg",
 // };
-const publicationsHeader = {
-  title: "PROJECTS",
-  description:
-    "I have worked on and published a few research papers and publications of my own.",
-  avatar_image_path: "projects_image.svg",
-};
+// const publicationsHeader = {
+//   title: "PUBLICATIONS",
+//   description:
+//     "I have worked on and published a few research papers and publications of my own.",
+//   avatar_image_path: "projects_image.svg",
+// };
 
-const publications = {
-  data: [
-    {
-      id: "MDEwOlJlcG9zaXRvcnkyNDU0NjcyNzQ=",
-      name: "Change Data Capture (CDC)",
-      createdAt: "2023-03-06T16:26:54Z",
-      description:
-        "Implemented change data capture system using Python, Apache Spark, MySQL, AWS (LAMBDA GLUE, S3, DMS, RDS, IAM) for ongoing replication of database changes to another storage with a detailed architecture for data flow, transformation, and storage to ensure scalability, flexibility, and robustness. ",
-      url: "https://github.com/jksingh07/CDC",
-    },
-    {
-      id: "MDEwOlJlcG9zaXRvcnkyNDU0NjcyNzi=",
-      name: "Automated Garage System",
-      createdAt: "2022-12-06T16:26:54Z",
-      description:
-        "allows remote control and monitoring of garage doors, sensors, and lights using Python, Flask APIs, Unity, Junit, GIT, Jira, Flutter, GO Visual Studio, and Azure Cloud. We achieved a 90% reduction in user effort and an 80% increase in efficiency. ",
-      url: "https://github.com/jksingh07/smart_garage",
-    },
-    {
-      id: "MDEwOlJlcG9zaXRvcnkyNDU0NjcyNze=",
-      name: "Object Detection and Recognition",
-      createdAt: "2020-03-06T16:26:54Z",
-      description:
-        "Applied Technologies: Deep Learning, Raspberry Pi, GUI - Tkinter, API, Flask\n • Developed assistive technology for the visually impaired, utilizing text-to-speech module to accurately detect and recognize objects with 95% model accuracy.",
-      url: "https://github.com/jksingh07/Object-Detection",
-    },
-    {
-      id: "MDEwOlJlcG9zaXRvcnkyNDU0NjcyNzt=",
-      name: "Garbage Detection",
-      createdAt: "2019-12-06T16:26:54Z",
-      description:
-        "Detects Garbage in the streets and reports to Municipal corporation. ",
-      url: "https://github.com/jksingh07/Garbage-Detection",
-    },
-    {
-      id: "MDEwOlJlcG9zaXRvcnkyNDU0NjcyNzt=",
-      name: "Restaurant Management System",
-      createdAt: "2020-10-06T16:26:54Z",
-      description:
-        "This project streamlines the billing process by providing two graphical user interfaces (GUIs): one for customers to place orders and obtain order IDs, and another for employees to input order IDs and perform updates or deletions with admin permissions, while utilizing SQL lite for database management. ",
-      url:
-        "https://github.com/jksingh07/Restaurant-Management-System/tree/master",
-    },
-    {
-      id: "MDEwOlJlcG9zaXRvcnkyNDU0NjcyNzt=",
-      name: "File Transfer Tool using Sockets",
-      createdAt: "2020-10-06T16:26:54Z",
-      description:
-        "A basic File transfer tool built using socket programming in python. It can transfer any type of files (videos, images, documents) between 2 computers connected on the same wireless network.",
-      url: "https://github.com/jksingh07/File-Transfer-tool/tree/master",
-    },
-    {
-      id: "MDEwOlJlcG9zaXRvcnkyNDU0NjcyNzb=",
-      name: "Self Driving Car Prototype",
-      createdAt: "2020-12-06T16:26:54Z",
-      description:
-        "In this project we had used Behaviour cloning technique and trained a neural network with the images from the car (working in a simulator) of front , left, right side and then processed the images by cleaning the data by removing unwanted part of image, fine tuned and resized the images. On the basis of the images it predicts the left and right turns. Moreover to stop the car we used Lidar sensors that will detect the object in the path. We had created a working Prototype of this car. Raspberry Pi module is used to run the application and work with Lidar, a battery pack is installed in the car ",
-      url: "https://github.com/jksingh07/Self-Driving-Car-",
-    },
-  ],
-};
+// const publications = {
+//   data: [
+//     {
+//       id: "MDEwOlJlcG9zaXRvcnkyNDU0NjcyNzQ=",
+//       name: "Change Data Capture (CDC)",
+//       createdAt: "2023-03-06T16:26:54Z",
+//       description: "Implemented change data capture system using Python, Apache Spark, MySQL, AWS (LAMBDA GLUE, S3, DMS, RDS, IAM) for ongoing replication of database changes to another storage with a detailed architecture for data flow, transformation, and storage to ensure scalability, flexibility, and robustness. ",
+//       url:
+//         "https://github.com/jksingh07/CDC",
+//     },
+//     {
+//       id: "MDEwOlJlcG9zaXRvcnkyNDU0NjcyNzi=",
+//       name: "Automated Garage System",
+//       createdAt: "2022-12-06T16:26:54Z",
+//       description: "allows remote control and monitoring of garage doors, sensors, and lights using Python, Flask APIs, Unity, Junit, GIT, Jira, Flutter, GO Visual Studio, and Azure Cloud. We achieved a 90% reduction in user effort and an 80% increase in efficiency. ",
+//       url:
+//         "https://github.com/jksingh07/smart_garage",
+//     },
+//     {
+//       id: "MDEwOlJlcG9zaXRvcnkyNDU0NjcyNze=",
+//       name: "Object Detection and Recognition",
+//       createdAt: "2020-03-06T16:26:54Z",
+//       description: "Applied Technologies: Deep Learning, Raspberry Pi, GUI - Tkinter, API, Flask\n • Developed assistive technology for the visually impaired, utilizing text-to-speech module to accurately detect and recognize objects with 95% model accuracy.",
+//       url:
+//         "https://github.com/jksingh07/Object-Detection",
+//     },
+//     {
+//       id: "MDEwOlJlcG9zaXRvcnkyNDU0NjcyNzt=",
+//       name: "Garbage Detection",
+//       createdAt: "2019-12-06T16:26:54Z",
+//       description: "Detects Garbage in the streets and reports to Municipal corporation. ",
+//       url:
+//         "https://github.com/jksingh07/Garbage-Detection",
+//     },
+//     {
+//       id: "MDEwOlJlcG9zaXRvcnkyNDU0NjcyNzt=",
+//       name: "Restaurant Management System",
+//       createdAt: "2020-10-06T16:26:54Z",
+//       description: "This project streamlines the billing process by providing two graphical user interfaces (GUIs): one for customers to place orders and obtain order IDs, and another for employees to input order IDs and perform updates or deletions with admin permissions, while utilizing SQL lite for database management. ",
+//       url:
+//         "https://github.com/jksingh07/Restaurant-Management-System/tree/master",
+//     },
+//     {
+//       id: "MDEwOlJlcG9zaXRvcnkyNDU0NjcyNzt=",
+//       name: "File Transfer Tool using Sockets",
+//       createdAt: "2020-10-06T16:26:54Z",
+//       description: "A basic File transfer tool built using socket programming in python. It can transfer any type of files (videos, images, documents) between 2 computers connected on the same wireless network.",
+//       url:
+//         "https://github.com/jksingh07/File-Transfer-tool/tree/master",
+//     },
+//     {
+//       id: "MDEwOlJlcG9zaXRvcnkyNDU0NjcyNzb=",
+//       name: "Self Driving Car Prototype",
+//       createdAt: "2020-12-06T16:26:54Z",
+//       description: "In this project we had used Behaviour cloning technique and trained a neural network with the images from the car (working in a simulator) of front , left, right side and then processed the images by cleaning the data by removing unwanted part of image, fine tuned and resized the images. On the basis of the images it predicts the left and right turns. Moreover to stop the car we used Lidar sensors that will detect the object in the path. We had created a working Prototype of this car. Raspberry Pi module is used to run the application and work with Lidar, a battery pack is installed in the car ",
+//       url:
+//         "https://github.com/jksingh07/Self-Driving-Car-",
+//     },
+
+//   ],
+
+// };
 
 // Contact Page
 const contactPageData = {
@@ -821,12 +822,12 @@ const contactPageData = {
     title: "Contact Me",
     profile_image_path: "jaskaran_animated.png",
     description:
-      "I am available on almost every social media. You can message me, I will reply within 24 hours. I can help you with ML, AI, React, Android, Cloud and Opensource Development.",
+      "I am available on almost every social media. You can message me, I will reply within 24 hours. I can help you with Full Stack AI Application/Services Devlopment, inclusive of ML, AI, Cloud and Opensource Development.",
   },
   blogSection: {
     title: "About Me",
     subtitle:
-      "For individual fundamental empowerment, I like to write powerful lessons that create impact on each of the reader individually to change the core of their character.",
+      "Hello! I am Jaskaran Singh Luthra, a passionate data scientist and machine learning enthusiast. I have a solid background in programming languages such as Python, C, C++, and JavaScript and have gained extensive experience in data science and machine learning technologies such as TensorFlow, PyTorch, Big Data, OpenCV, NLP, and deep learning techniques like LSTM, neural networks, data visualization, data mining, and data privacy.\n\nI hold a Master of Applied Computing in Artificial Intelligence stream from the University of Windsor, where I excelled in Advanced System Programming and achieved a perfect score of 100% among 160 students. Additionally, I earned a Bachelor of Technology in Information Technology from Galgotias College of Engineering and Technology, where I secured the first rank among 500 members in Time Attack coding competition during Technical Fest.\n In my professional experience, I have worked with a wide range of databases, including MySQL, MongoDB, PostgreSQL, MS-SQL, and AWS-S3. Moreover, I have expertise in visualization tools like Tableau, PowerBI, Matplotlib, Seaborn, Plotly, and Panel, and frameworks such as Apache Spark, Hadoop, Django, Flask, Streamlit, Dash, REST API, Docker, Anaconda, and Jupyter NB.",
     link: "https://blogs.jaskaranluthra.com/",
     avatar_image_path: "blogs_image.svg",
   },
@@ -854,7 +855,7 @@ export {
   certifications,
   experience,
   projectsHeader,
-  publicationsHeader,
-  publications,
+  // publicationsHeader,
+  // publications,
   contactPageData,
 };
