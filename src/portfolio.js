@@ -93,8 +93,17 @@ const skills = {
         "⚡ Developing highly scalable production ready models for various deeplearning and statistical use cases",
         "⚡ Experience of working with Computer Vision and NLP projects",
         "⚡ Complex quantitative modelling for dynamic forecasting and time series analysis",
+        "⚡ Proficient in MS SQL Server, including advanced T-SQL queries, stored procedures, and SQL Server Agent job management for efficient data processing.",
+        "⚡ Skilled in SSIS (SQL Server Integration Services) for designing and deploying complex ETL (Extract, Transform, Load) processes, ensuring accurate and seamless data integration.",
       ],
       softwareSkills: [
+        {
+          skillName: "MS SQL Server",
+          fontAwesomeClassname: "simple-icons:microsoftsqlserver",
+          style: {
+            backgroundColor: "transparent",
+          },
+        },
         {
           skillName: "Tensorflow",
           fontAwesomeClassname: "logos-tensorflow",
@@ -307,6 +316,13 @@ const skills = {
           fontAwesomeClassname: "simple-icons:jira",
           style: {
             color: "#0052CC",
+          },
+        },
+        {
+          skillName: "MS SQL Server",
+          fontAwesomeClassname: "simple-icons:microsoftsqlserver",
+          style: {
+            backgroundColor: "transparent",
           },
         },
         {
