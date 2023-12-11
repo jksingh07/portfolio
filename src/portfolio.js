@@ -394,7 +394,7 @@ const degrees = {
     {
       title: "University of Windsor",
       subtitle:
-        "Masters in Applied Computing (Specialisation Artificial Intelligence",
+        "Masters in Applied Computing (Specialisation Artificial Intelligence)",
       logo_path: "uwindsor_logo_2.jpeg",
       alt_name: "University of Windsor",
       duration: "2022 - Current",
@@ -542,7 +542,7 @@ const experience = {
   title: "Experience",
   subtitle: "Work, Internship and Volunteership",
   description:
-    "I have worked with many evolving startups as ML and DL Developer, Designer and Software Architect. I have also worked with some well established companies mostly as Developer for AI and Business Intelligence. I love organising events and that is why I am also involved with many NGOs communities as a volunteer.",
+    "I have worked with many evolving startups and well established companies mostly as Software Developer, ML/AI Developer and Business Intelligence Developer. I love organising events and that is why I am also involved with many NGOs communities as a volunteer.",
   header_image_path: "experience.svg",
   sections: [
     {
