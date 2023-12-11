@@ -25,7 +25,7 @@ const greeting = {
   subTitle:
     "A passionate individual who always thrives to work on end to end products which develop sustainable and scalable social and technical systems to create impact.",
   resumeLink:
-    "https://drive.google.com/file/d/1MdVH0FSOZ0ZnUvKrOv4GJR_-Nu9r6RGn/view?usp=share_link",
+    "https://drive.google.com/file/d/1LTlNXwo-w8FMyFA1JLfD9V9lZ0BphntH/view?usp=sharing",
   portfolio_repository: "https://github.com/jksingh07/Portfolio",
   githubProfile: "https://github.com/jksingh07",
 };
@@ -873,10 +873,10 @@ const contactPageData = {
   },
   addressSection: {
     title: "Address",
-    subtitle: "532 Oak Street, Windsor, Ontario, Canada, N9A 5E6",
+    subtitle: "4 Horner Drive, Ottawa, Ontario, Canada, K2H 5E5",
     avatar_image_path: "address_image.svg",
     location_map_link:
-      "https://www.google.com/maps/place/532+Oak+St,+Windsor,+ON+N9A+5E6/@42.3112089,-83.0508123,17z/data=!3m1!4b1!4m6!3m5!1s0x883b2d10272198d9:0x69852e68c8a067e9!8m2!3d42.311205!4d-83.0486183!16s%2Fg%2F11cphdk2lc",
+      "https://www.google.com/maps/place/4+Horner+Dr,+Nepean,+ON+K2H+5E5/@45.3481122,-75.8185623,17z/data=!3m1!4b1!4m6!3m5!1s0x4cce00eec0260b59:0x292edaf3cc5a40e7!8m2!3d45.3481122!4d-75.8185623!16s%2Fg%2F11c2gw7pqx?entry=ttu",
   },
   phoneSection: {
     title: "",
