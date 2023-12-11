@@ -699,6 +699,17 @@ const experience = {
       title: "Volunteerships",
       experiences: [
         {
+          title: "Volunteer",
+          company: "Slum Swaraj Foundation",
+          company_url: "https://www.instagram.com/slumswaraj/?hl=en",
+          logo_path: "slumswaraj.png",
+          duration: "Sep 2018 - July 2021",
+          location: "Greater Noida, Uttar Pardesh",
+          description:
+            "At Slum Swaraj Foundation, I played a pivotal role in transforming young lives by fostering education among slum children.",
+          color: "#4285F4",
+        },
+        {
           title:
             "Joint Secreatory Fusion IT Club- Dance Club Head of IT Department",
           company:
@@ -722,6 +733,7 @@ const experience = {
             "Volunteered in organizing IEEE international conference 2018 Managed activities like Registration, Handling Stage and gathering of 500+",
           color: "#4285F4",
         },
+
         // {
         //   title: "Microsoft Student Partner",
         //   company: "Microsoft",
