@@ -552,7 +552,7 @@ const experience = {
           title: "Business Intelligence Developer Co-op",
           company: "Ericsson Canada",
           company_url: "https://www.ericsson.com/en",
-          logo_path: "ericsson_logo.png",
+          logo_path: "ericssonLogo.png",
           duration: "Sep 2023 - Present",
           location: "Ottawa, Canada",
           description:
@@ -601,7 +601,7 @@ const experience = {
           title: "Business Intelligence Developer Co-op",
           company: "Ericsson Canada",
           company_url: "https://www.ericsson.com/en",
-          logo_path: "ericsson_logo.png",
+          logo_path: "ericssonLogo.png",
           duration: "Sep 2023 - Present",
           location: "Ottawa, Canada",
           description:
