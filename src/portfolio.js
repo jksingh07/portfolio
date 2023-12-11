@@ -542,12 +542,23 @@ const experience = {
   title: "Experience",
   subtitle: "Work, Internship and Volunteership",
   description:
-    "I have worked with many evolving startups as ML and DL Developer, Designer and Software Architect. I have also worked with some well established companies mostly as AI Developer. I love organising events and that is why I am also involved with many opensource communities as a representative.",
+    "I have worked with many evolving startups as ML and DL Developer, Designer and Software Architect. I have also worked with some well established companies mostly as Developer for AI and Business Intelligence. I love organising events and that is why I am also involved with many NGOs communities as a volunteer.",
   header_image_path: "experience.svg",
   sections: [
     {
       title: "Work",
       experiences: [
+        {
+          title: "Business Intelligence Developer Co-op",
+          company: "Ericsson Canada",
+          company_url: "https://www.ericsson.com/en",
+          logo_path: "ericsson_logo.png",
+          duration: "Sep 2023 - Present",
+          location: "Ottawa, Canada",
+          description:
+            "As a Business Intelligence Developer Co-op at Ericsson in Ottawa, Canada, my role involves a diverse technological stack, including C#, Python, SSIS, ETL, MS SQL Server Suite, T-SQL, PL/SQL, and advanced SQL techniques such as Window Functions, CTEs, and Joins, alongside proficiency in NLP, Git, and Jira. I have successfully deployed and tested over 15 ETL packages on production servers, ensuring an exceptional accuracy rate of 99.5% in data migration and processing. Additionally, I've implemented Triggers and Stored Procedures using PL/SQL to facilitate incremental loading, significantly reducing processing time by 15%. My expertise extends to designing and developing complex SSIS packages with C# scripts for seamless data movement from diverse sources like SharePoint, Jira, APIs, Text Files, and Excel to SQL Server. Proficient in crafting T-SQL queries, dynamic queries, and complex joins, I've orchestrated routine SQL Server Agent jobs, developed business logic for table creation, and executed advanced SQL techniques for more accurate data analysis and reporting. Notably, I've spearheaded a machine learning project achieving a 90% accuracy rate in classifying customer names, leveraging Deep Learning, Natural Language Processing, and Word Vectorization techniques.",
+          color: "#0879bf",
+        },
         {
           title: "Associate Consultant and Project Engineer",
           company: "Wipro Technologies",
@@ -586,6 +597,17 @@ const experience = {
     {
       title: "Internships",
       experiences: [
+        {
+          title: "Business Intelligence Developer Co-op",
+          company: "Ericsson Canada",
+          company_url: "https://www.ericsson.com/en",
+          logo_path: "ericsson_logo.png",
+          duration: "Sep 2023 - Present",
+          location: "Ottawa, Canada",
+          description:
+            "Business Intelligence Developer Co-op at Ericsson, Ottawa, adept in C#, Python, SSIS, ETL, and SQL. Successfully deployed and tested 15+ ETL packages with 99.5% accuracy. Implemented PL/SQL Triggers and Stored Procedures for incremental loading, reducing processing time by 15%. Proficient in designing complex SSIS packages, writing T-SQL queries, and executing advanced SQL techniques. Spearheaded a machine learning project achieving 90% accuracy in classifying customer names using DL, NLP, and Word Vectorization.",
+          color: "#0879bf",
+        },
         {
           title: "Scripting Developer Intern",
           company: "Expoodle Pvt. Ltd.",
